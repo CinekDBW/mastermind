@@ -9,8 +9,8 @@ Based on the  [Mastermind](https://en.wikipedia.org/wiki/Mastermind_%28board_gam
 
 ## Algorithms
  1. Brute force
-	1.1. Dummy (each combination respectively)
-	1.2. Random (combinations in randomized order without repetitions)
+  1.1. Dummy (each combination respectively)
+  1.2. Random (combinations in randomized order without repetitions)
 2. Smart random (Random with rejecting impossible combinations)
 3. Knuth (also known as five-guess algorithm)
 4. Genetic
